@@ -14,7 +14,7 @@ module.exports = {
 \`\`\`css
 Benvenuto in ${botName}!
 
-Your ultimate music companion on Discord. Here are the available commands:
+Il tuo compagno musicale definitivo su Discord. Ecco i comandi disponibili:
 
 [ /play    ] - Riproduci la canzone desiderata.
 [ /pause   ] - Metti in pausa la corrente riproduzione audio.
