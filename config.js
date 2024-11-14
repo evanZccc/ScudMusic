@@ -7,7 +7,7 @@ module.exports = {
     musicardTheme:"themes16", //Passa da tema1 a tema19
     activityName: "OST Inazuma", // Questo è lo stato del bot Scrivi qualsiasi cosa qui 
     activityType: "LISTENING",  // Tipi di attività disponibili: ASCOLTARE, GIOCARE
-    SupportServer: "https://discord.gg/xQF9f9yUEM",
+    SupportServer: "https://discord.gg/43VDd3UTrM",
     CheckmarkIcon: "https://cdn.discordapp.com/emojis/819446784647757834.gif",
     MusicIcon:"https://cdn.discordapp.com/emojis/763415718271385610.gif",
     embedTimeout: 5,  // Timeout prima che gli incorporamenti di interazione dei pulsanti vengano eliminati (impostazione predefinita: 5 secondi)
